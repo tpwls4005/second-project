@@ -8,7 +8,7 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 2. Click the "Go!" button to submit your guess.
 3. If your guess is too low, the message "up!!" will appear.
 4. If your guess is too high, the message "down!!" will appear.
-5. If you guess the correct number, the message "collect!!" will appear, and fireworks will be displayed.
+5. If you guess the correct number, the message "That's correct!" will appear.
 6. You have 5 chances to guess the correct number. After using all chances, the game will end.
 7. You can reset the game by clicking the "Reset!" button.
 
