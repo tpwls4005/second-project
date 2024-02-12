@@ -51,7 +51,7 @@ function play() {
     } else if (userValue > computerNum) {
         resultArea.textContent = "down!!";
     } else if (userValue == computerNum) {
-        resultArea.textContent = "collect!!";
+        resultArea.textContent = "That's correct!";
         gameOver = true;
     
         }
